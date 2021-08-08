@@ -1,0 +1,12 @@
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/bin/Debug/net5.0/Reminders.Common.deps.json
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/bin/Debug/net5.0/Reminders.Common.dll
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/bin/Debug/net5.0/ref/Reminders.Common.dll
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/bin/Debug/net5.0/Reminders.Common.pdb
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/obj/Debug/net5.0/Reminders.Common.csproj.AssemblyReference.cache
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/obj/Debug/net5.0/Reminders.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/obj/Debug/net5.0/Reminders.Common.AssemblyInfoInputs.cache
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/obj/Debug/net5.0/Reminders.Common.AssemblyInfo.cs
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/obj/Debug/net5.0/Reminders.Common.csproj.CoreCompileInputs.cache
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/obj/Debug/net5.0/Reminders.Common.dll
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/obj/Debug/net5.0/ref/Reminders.Common.dll
+/home/rob/dev/first-dotnet-core-app/Reminders.Common/obj/Debug/net5.0/Reminders.Common.pdb
